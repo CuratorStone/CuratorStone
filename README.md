@@ -1,3 +1,1 @@
-Hello my fellow SPOs. This is my introduction via a README.md. So, first and for most, I came here for probably a lot the same reasons you did-to make money! 
-
-I've since learned that there is a lot of work involved in this project so naturally, there are a people who put in the extra effort needed to make this commmunity excessible to people like me. I think being a part of a culture that is as involved in the Cardano community helps me sharpen my skills that I've worked so hard in developing over these last few years. I.T. and cybersecurity to be more specific. So, I'll be working on adding something of value to this project possibly here and definitly in the forums. One day I hope to be profitable, I hope the same for all of you too. Happy stakepooling!
+This page houses my current project portfolio which includes, cybersecurity projects related to system hardening, network cyber-operations (i.e. security auditing, pen-testing, etc).
